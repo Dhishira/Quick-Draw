@@ -15,7 +15,7 @@ h1
 
 #show_sketch
 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 500;
     margin-bottom: 8px;
 }
@@ -23,7 +23,7 @@ h1
 #label,#confidence
 {
     color: white;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 500;
 }
 
@@ -31,12 +31,12 @@ h1
 {
   color: white;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #score,#timer
 {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 550;
 }
